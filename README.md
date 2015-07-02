@@ -1,2 +1,2 @@
-# Super-Steam
+# Super Steam
 Steam extension under development
